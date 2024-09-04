@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "",
   "scripts": {
-    "build": "npx swa", 
+    "build": "swa start src --api-location api", 
     "start": "func start",
     "test": "echo \"No tests yet...\""
   },
